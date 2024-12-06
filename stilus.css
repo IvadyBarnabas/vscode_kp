@@ -1,0 +1,40 @@
+body {
+    background-color: antiquewhite;
+    color: navy;
+}
+h1 {
+    background-color: antiquewhite;
+    color:navy
+}
+h2 {
+    background-color: antiquewhite;
+    font-size: 18pt;
+    color:navy
+    
+}
+h3 {
+    background-color: antiquewhite;
+    color:navy
+}
+p {
+    background-color: antiquewhite;
+    font-size: 12pt;
+    color:black
+    
+}
+#scottishfold {
+    color: rgb(0, 247, 255);
+    background-color: steelblue;
+
+}
+#savannah {
+    color: rgb(255, 231, 20);
+    background-color: rgb(116, 82, 33);
+}
+#bengali {
+    color: deeppink;
+    background-color: snow;
+}
+.piros {
+    color: red;
+}
